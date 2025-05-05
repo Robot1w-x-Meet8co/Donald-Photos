@@ -1,6 +1,6 @@
 const photos = [
-    { src: "photos/photo1.jpg", description: "Description of Photo 1" },
-    { src: "photos/photo2.jpg", description: "Description of Photo 2" },
+    { src: "photos/ChatGPT Image Apr 30, 2025, 11_22_17 AM.png", description: "Eating chicken tenders" },
+    { src: "photos/ChatGPT Image Apr 30, 2025, 11_27_56 AM.png", description: "Outside of The Golden Plate" },
     { src: "photos/photo3.jpg", description: "Description of Photo 3" },
     { src: "photos/photo4.jpg", description: "Description of Photo 4" },
 ];
